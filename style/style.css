@@ -16,7 +16,9 @@ body
 #para{
 	font-size: 15px;
  	position: relative;
-    left: 100px;
+    text-align: left;
+    left: 60%;
+    right: auto;
     top: 170px;
     color:white;
     width:500px;
