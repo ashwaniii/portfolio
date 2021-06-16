@@ -1,9 +1,18 @@
+
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #top{
 	background: #109AC4;
 	height: 450px;
 	margin-top: -20px;
 	background-size: cover;
 }
+
 #para{
 	font-size: 15px;
  	position: relative;
