@@ -1,0 +1,14 @@
+#top{
+	background: #109AC4;
+	height: 450px;
+	margin-top: -20px;
+	background-size: cover;
+}
+#para{
+	font-size: 15px;
+ 	position: relative;
+    left: 100px;
+    top: 170px;
+    color:white;
+    width:500px;
+}
